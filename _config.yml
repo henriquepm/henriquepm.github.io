@@ -1,1 +1,10 @@
+title: Henrique Piñeiro Monteagudo
+author: henriquepm
+email: henriquepinheiromonteagudo@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My name is Henrique Piñeiro, I am MSc student in Computer Vision,
+  currently working at Universidade de Vigo.
+  
+twitter_username: henriqpm # DO NOT include the @ character, or else the build will fail!
+github_username:  henriquepm # DO NOT include the @ character, or else the build will fail!
 theme: jekyll-theme-cayman
