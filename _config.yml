@@ -1,7 +1,7 @@
 title: Henrique Piñeiro Monteagudo
-author:
-  name: henriquepm
-  email: "henriquepinheiromonteagudo (at) google (dot) com"
+
+name: henriquepm
+email: "henriquepinheiromonteagudo (at) google (dot) com"
 description: > # this means to ignore newlines until "baseurl:"
   My name is Henrique Piñeiro, I am MSc student in Computer Vision,
   currently working at Universidade de Vigo.
@@ -11,11 +11,10 @@ description: > # this means to ignore newlines until "baseurl:"
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
-minima:
-  social_links:
-    twitter_username: henriqpm # DO NOT include the @ character, or else the build will fail!
-    github_username:  henriquepm # DO NOT include the @ character, or else the build will fail!
-    linkedin_username: henriqpm
+
+twitter_username: henriqpm # DO NOT include the @ character, or else the build will fail!
+github_username:  henriquepm # DO NOT include the @ character, or else the build will fail!
+linkedin_username: henriqpm
 
 include:
     - _pages
