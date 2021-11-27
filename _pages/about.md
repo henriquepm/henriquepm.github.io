@@ -16,12 +16,14 @@ Currricular internship at [CITIUS](https://citius.usc.es/), an intelligent techn
 ### Apr - Jun 2020
 Internship at [Insitu Engineering](https://ingenieriainsitu.com/), a technological spin-off from the University of Vigo. Developing an application for the automatic recognition of assets from railway images in the context of a project to reduce maintenance costs in the Spanish railway systems. Development in C++, using Darknet as DL framework. Qt to provide a GUI for the app.
 
-## Technologies
+## Skills
 ### Programming languages: 
 Python (preferred), C++, Matlab.
 ### DL framework:
 PyTorch.
 ### Libraries:
 OpenCV, scikit-image, scikit-learn, NumPy.
-### Misc:
+### Misc Tools:
 Git, Latex, shell.
+### Languages:
+Spanish (native), Galician (native), English (fluent), Italian (basic)
