@@ -3,7 +3,7 @@ permalink: /about
 layout: page
 title: About
 ---
-![A photo of me](/_assets/foto_me_small.jpg)
+![A photo of me](/_assets/foto_me.jpg){:width="5%"}
 
 My name is Henrique Piñeiro Monteagudo. I am currently a MSc student of the [IMCV](https://www.imcv.eu/), a Computer Vision programme from three Spanish (Coruña, Santiago de Compostela and Vigo) and one Portuguese (Porto) universities, taught by active researchers in the field. I also work at the Applied Geotechnologies research group at the University of Vigo, studying multiple object tracking models on embedded systems for the [InfraROB](https://cordis.europa.eu/project/id/955337) H2020 project.
 
