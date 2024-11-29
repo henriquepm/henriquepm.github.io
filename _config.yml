@@ -1,20 +1,28 @@
 title: Henrique Piñeiro Monteagudo
-
-name: henriquepm
-email: "henriquepinheiromonteagudo (at) google (dot) com"
-description: > # this means to ignore newlines until "baseurl:"
-  My name is Henrique Piñeiro, I am a Computer Vision Engineer :)
+author:
+  name: henriquepm
+  email: "henriquepinheiromonteagudo (at) google (dot) com"
   
-
+description: > # this means to ignore newlines until "baseurl:"
+  My name is Henrique Piñeiro Monteagudo, I do research in Computer Vision
+  
+remote_theme: jekyll/minima
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-twitter_username: henriqpm # DO NOT include the @ character, or else the build will fail!
-github_username:  henriquepm # DO NOT include the @ character, or else the build will fail!
-linkedin_username: henriqpm
+minima:
+  skin: dark
 
+
+social_links:
+  - { platform: github, user_url: https://github.com/henriquepm}
+  - { platform: bluesky, user_url: https://bsky.app/profile/henrique.gal}
+  - { platform: linkedin, user_url: https://www.linkedin.com/in/henriqpm/}
+  
 include:
     - _pages
     - _assets
