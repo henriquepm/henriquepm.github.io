@@ -1,7 +1,7 @@
 ---
 title: "Henrique's home"
 ---
-I am a reseracher in Computer Vision and an engineer. I currently work as a Data Scientist at Verizon Connect and I am a PhD student at the University of Bologna. I am funded by the [SMARTHEP](https://www.smarthep.org/) Marie Skłodowska-Curie Actions Innovative Training Network.
+I am a researcher in Computer Vision and an engineer. I currently work as a Data Scientist at Verizon Connect and I am a PhD student at the University of Bologna. I am funded by the [SMARTHEP](https://www.smarthep.org/) Marie Skłodowska-Curie Actions Innovative Training Network.
 ![A photo of me](/_assets/foto_me.jpg)
 
 ## Education
