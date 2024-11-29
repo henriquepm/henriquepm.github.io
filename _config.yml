@@ -1,6 +1,6 @@
 title: Henrique Piñeiro Monteagudo
 author:
-  name: henriquepm
+  name: Henrique Piñeiro Monteagudo
   email: "henriquepinheiromonteagudo (at) google (dot) com"
   
 description: > # this means to ignore newlines until "baseurl:"
@@ -15,13 +15,11 @@ plugins:
   - jekyll-seo-tag
 
 minima:
-  skin: dark
-
-
-social_links:
-  - { platform: github, user_url: https://github.com/henriquepm}
-  - { platform: bluesky, user_url: https://bsky.app/profile/henrique.gal}
-  - { platform: linkedin, user_url: https://www.linkedin.com/in/henriqpm/}
+  skin: auto
+  social_links:
+    - { platform: github, user_url: https://github.com/henriquepm}
+    - { platform: bluesky, user_url: https://bsky.app/profile/henrique.gal}
+    - { platform: linkedin, user_url: https://www.linkedin.com/in/henriqpm/}
   
 include:
     - _pages
