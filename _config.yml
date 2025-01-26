@@ -1,27 +1,29 @@
+---
 title: Henrique Piñeiro Monteagudo
+url: 'https://henriquepm.github.io/'
+baseurl: ''
 author:
   name: Henrique Piñeiro Monteagudo
-  email: "henrique.pineiro2 (at) unibo (dot) it"
-  
-description: > # this means to ignore newlines until "baseurl:"
+  email: henrique.pineiro2 (at) unibo (dot) it
+description: |
   My name is Henrique Piñeiro Monteagudo, I do research in Computer Vision
-  
 remote_theme: jekyll/minima
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-
+show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  - jekyll-remote-theme
 minima:
   skin: auto
   social_links:
-    - { platform: github, user_url: https://github.com/henriquepm}
-    - { platform: bluesky, user_url: https://bsky.app/profile/henrique.gal}
-    - { platform: linkedin, user_url: https://www.linkedin.com/in/henriqpm/}
-    - { platform: google_scholar, user_url: https://scholar.google.com/citations?user=LJgeoBwAAAAJ&hl=en&oi=ao}
-  
+    - platform: github
+      user_url: https://github.com/henriquepm
+    - platform: bluesky
+      user_url: https://bsky.app/profile/henrique.gal
+    - platform: linkedin
+      user_url: https://www.linkedin.com/in/henriqpm/
+    - platform: google_scholar
+      user_url: https://scholar.google.com/citations?user=LJgeoBwAAAAJ&hl=en&oi=ao
 include:
-    - _pages
-    - _assets
+  - _pages
+  - _assetis
